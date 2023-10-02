@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\bin\Debug\net6.0\FinbourneLRUCache.exe
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\bin\Debug\net6.0\FinbourneLRUCache.deps.json
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\bin\Debug\net6.0\FinbourneLRUCache.runtimeconfig.json
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\bin\Debug\net6.0\FinbourneLRUCache.dll
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\bin\Debug\net6.0\FinbourneLRUCache.pdb
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\obj\Debug\net6.0\FinbourneLRUCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\obj\Debug\net6.0\FinbourneLRUCache.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\obj\Debug\net6.0\FinbourneLRUCache.AssemblyInfo.cs
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\obj\Debug\net6.0\FinbourneLRUCache.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\obj\Debug\net6.0\FinbourneLRUCache.dll
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\obj\Debug\net6.0\refint\FinbourneLRUCache.dll
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\obj\Debug\net6.0\FinbourneLRUCache.pdb
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\obj\Debug\net6.0\FinbourneLRUCache.genruntimeconfig.cache
+C:\Users\chris\source\repos\FinbourneLRUCache\FinbourneLRUCache\obj\Debug\net6.0\ref\FinbourneLRUCache.dll
